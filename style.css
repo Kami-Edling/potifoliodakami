@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f299; /* Um fundo cinza claro para suavizar as cores */
+}
+
+h1, h2 {
+    color: #666; /* Cinza escuro para os títulos */
+}
+
+section {
+    padding: 20px;
+}
+
+/* Cores para os links */
+a {
+    color: #999;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #666;
+}
+
+/* Seções com cores de fundo diferentes */
+#sobre {
+    background-color: #f2cfcf; /* Rosa claro */
+}
+
+#formacao {
+    background-color: #cfe2f2; /* Azul claro */
+}
+
+#portfolio {
+    background-color: #e8d4ff; /* Roxo claro */
+}
+
+/* Formulário */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
